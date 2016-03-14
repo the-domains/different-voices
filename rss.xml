@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Different Voices]]></title>
+        <description><![CDATA[Different Voices]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 12:01:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[fractal philosophy ]]></title>
+            <description><![CDATA[<article><h1>fractal philosophy </h1><p>"The technocrat is the natural friend of the dictator—computers and dictatorship; but the revolutionary lives in the gap which separates technical progress from social totality, and inscribed there his dream of permanent revolution. This dream, therefore, is itself action, reality, and an effective menace to all established order; it renders possible what it dreams about. " — Gilles Deleuze</p></article>]]></description>
+            <link>undefinedfractal-philosophy/index.html</link>
+            <guid isPermaLink="false">fdd2450f-2015-4e75-84be-0addeebf845a</guid>
+            <pubDate>Mon, 14 Mar 2016 12:01:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
