@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "\"The technocrat is the natural friend of the dictator—computers and dictatorship; but the revolutionary lives in the gap which separates technical progress from social totality, and inscribed there his dream of permanent revolution. This dream, therefore, is itself action, reality, and an effective menace to all established order; it renders possible what it dreams about. \"\_—\_Gilles Deleuze"
-datePublished: '2016-03-14T12:01:35.457Z'
-dateModified: '2016-03-14T11:51:29.258Z'
+datePublished: '2016-03-14T12:16:52.794Z'
+dateModified: '2016-03-14T12:16:33.693Z'
 title: "fractal philosophy\_"
 author: []
 authors: []
