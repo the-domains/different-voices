@@ -4,11 +4,18 @@
         <description><![CDATA[Different Voices]]></description>
         <link>https://thegrid.ai/different-voices/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 12:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 12:16:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/different-voices/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[fractal philosophy ]]></title>
+            <description><![CDATA[<article><h1>fractal philosophy </h1><p>"The technocrat is the natural friend of the dictator—computers and dictatorship; but the revolutionary lives in the gap which separates technical progress from social totality, and inscribed there his dream of permanent revolution. This dream, therefore, is itself action, reality, and an effective menace to all established order; it renders possible what it dreams about. " — Gilles Deleuze</p></article>]]></description>
+            <link>https://thegrid.ai/different-voices/fractal-philosophy/index.html</link>
+            <guid isPermaLink="false">fdd2450f-2015-4e75-84be-0addeebf845a</guid>
+            <pubDate>Mon, 14 Mar 2016 12:16:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[is blogging you?]]></title>
-            <description><![CDATA[<article><h1>is blogging you?</h1><p>undefined</p></article>]]></description>
+            <description><![CDATA[<article><h1>is blogging you?</h1><p>May 15, 2011</p></article>]]></description>
             <link>https://thegrid.ai/different-voices/is-blogging-really-good-for-you/index.html</link>
             <guid isPermaLink="false">c36708dd-a864-49c6-a72a-8ede6d04e656</guid>
             <pubDate>Mon, 14 Mar 2016 12:16:08 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/different-voices/278b2663-784a-4e8f-8942-6d8f478316a4/index.html</link>
             <guid isPermaLink="false">278b2663-784a-4e8f-8942-6d8f478316a4</guid>
             <pubDate>Mon, 14 Mar 2016 12:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fractal philosophy ]]></title>
-            <description><![CDATA[<article><h1>fractal philosophy </h1><p>"The technocrat is the natural friend of the dictator—computers and dictatorship; but the revolutionary lives in the gap which separates technical progress from social totality, and inscribed there his dream of permanent revolution. This dream, therefore, is itself action, reality, and an effective menace to all established order; it renders possible what it dreams about. " — Gilles Deleuze</p></article>]]></description>
-            <link>https://thegrid.ai/different-voices/fractal-philosophy/index.html</link>
-            <guid isPermaLink="false">fdd2450f-2015-4e75-84be-0addeebf845a</guid>
-            <pubDate>Mon, 14 Mar 2016 12:01:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
