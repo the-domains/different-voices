@@ -1,0 +1,28 @@
+name: Different Voices
+favicon: null
+layout_spectrum: 0.3878926292527467
+typography_spectrum: 0.6765458777081221
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1984532200731337
+  lightness: 0.06928804982453585
+  saturation: 0.08108810149133205
+  rhythmicContrast: 0.9853197797201574
+purpose: []
